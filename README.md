@@ -7,7 +7,6 @@
 - Real-time tracking of crypto assets via Binance WebSocket and REST API
 - Periodic price and balance updates (customizable refresh interval)
 - Simple and modern CLI display with color-coded price changes
-- Supports **-v** or **--version** to display the current version (`v1.0.0`)
 - Secure configuration using separate `env.json` (API keys) and `config.json` (settings)
 
 ## Usage
